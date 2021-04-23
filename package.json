@@ -1,10 +1,16 @@
 {
   "name": "do-dimmed",
-  "displayName": "Do Dimmed",
-  "description": "A Min dimmed theme",
+  "displayName": "DoDimmed",
+  "description": "A minimal dimmed theme",
+  "publisher": "doolooper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Doolooper/DoDimmed.git"
+  },
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.55.0"
+    "vscode": "^1.25.0"
   },
   "categories": [
     "Themes"
@@ -17,5 +23,9 @@
         "path": "./themes/dimmed-dark.json"
       }
     ]
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
   }
 }
