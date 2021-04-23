@@ -1,0 +1,21 @@
+{
+  "name": "do-dimmed",
+  "displayName": "Do Dimmed",
+  "description": "A Min dimmed theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dimmed Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dimmed-dark.json"
+      }
+    ]
+  }
+}
