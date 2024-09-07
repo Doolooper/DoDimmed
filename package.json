@@ -9,9 +9,9 @@
   },
   "license": "MIT",
   "icon": "icon.png",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "engines": {
-    "vscode": "^1.25.0"
+    "vscode": "^1.62.0"
   },
   "categories": [
     "Themes"
@@ -21,7 +21,12 @@
       {
         "label": "Dimmed Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/dimmed-dark.json"
+        "path": "./themes/dimmed-dark-theme.json"
+      },
+      {
+        "label": "Dimmed Light",
+        "uiTheme": "vs",
+        "path": "./themes/dimmed-light-theme.json"
       }
     ]
   },
