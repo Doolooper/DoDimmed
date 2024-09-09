@@ -1,6 +1,6 @@
 # README
 
-> Inspired from [Min](https://github.com/misolori/min-theme) and [monochrome](https://github.com/twfksh/monochrome) themes
+> Inspired by [Min](https://github.com/misolori/min-theme) and [monochrome](https://github.com/twfksh/monochrome) themes
 
 ### TODO
 
